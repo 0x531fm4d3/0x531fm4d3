@@ -3,7 +3,7 @@ I ocassionaly upload scripts that can be used for SOC's to reduce manual work an
 Naturally, the scripts are written for platforms that are used/were used by me.
 
 Other than that, I find Windows internals and malware analysis facsinating.
-My goal is some day also write code that may assist myself and others on these subjects.
+My goal is to eventually write code that may assist myself and others on these subjects.
 Hope this helps!
 
 Feel free to reach me out on linkedin: www.linkedin.com/in/amitmoses
