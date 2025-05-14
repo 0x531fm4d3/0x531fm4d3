@@ -1,4 +1,4 @@
-Hi, my name is Amit Moses, with 6+ years of experience in the cybersecurity field.\
+Hi, my name is Amit Moses, with 7~ years of experience in cybersecurity.\
 I find Windows internals and malware analysis fascinating.\
 i upload projects to github from time to time.\
 Hope you will find my scripts useful.\
